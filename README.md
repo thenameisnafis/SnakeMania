@@ -1,2 +1,2 @@
 # SnakeMania
-SnakeMania
+<img src="Snake.png">
